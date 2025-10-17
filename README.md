@@ -7,20 +7,20 @@ A simple CLI tool to generate colorful ASCII art banners. Perfect for terminal s
 ### Homebrew (macOS/Linux)
 
 ```bash
-brew tap username/bannify
+brew tap golovpeter/bannify
 brew install bannify
 ```
 
 ### From source
 
 ```bash
-go install github.com/username/bannify@latest
+go install github.com/golovpeter/bannify@latest
 ```
 
 ### Manual build
 
 ```bash
-git clone https://github.com/username/bannify.git
+git clone https://github.com/golovpeter/bannify.git
 cd bannify
 go build -o bannify
 ```

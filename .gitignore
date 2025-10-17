@@ -116,3 +116,5 @@ fabric.properties
 
 dist
 bin
+# Added by goreleaser init:
+dist/

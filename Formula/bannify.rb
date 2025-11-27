@@ -19,4 +19,4 @@ class Bannify < Formula
     output = shell_output("#{bin}/bannify -t TEST 2>&1")
     assert_match "TEST", output
   end
-end%
+end
